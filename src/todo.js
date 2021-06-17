@@ -105,6 +105,6 @@ app.post("/status", (req, res) => {
   });
 });
 
-app.listen(4001, () => {
+app.listen(4000, () => {
   console.log("Servidor rodando na porta 4001");
 });
